@@ -9,8 +9,8 @@ import threading
 import time
 
 # Bot token and admin user ID (as strings)
-bot = telebot.TeleBot('7248587968:AAHvB5WX7tQnkcZXkwDjzo1h5uz0sp4br0Y')
-admin_id = {"6539807903"}
+bot = telebot.TeleBot('7916862961:AAEkqIeN_4KWNC7udXC8kFxFTOxsLdVoNe4')
+admin_id = {"944049289"}
 
 # Files for data storage
 USER_FILE = "users.json"
